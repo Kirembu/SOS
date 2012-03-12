@@ -1,5 +1,5 @@
 <?php 
-// BOLLIX THIS IS A BLOODY TEST
+// BOLLIX THIS IS A BLOODY TEST :) :-)
 
 if(isset($_POST['username'])||isset($_POST['password'])){
 	if (!isset($_SESSION)) { session_start();}
